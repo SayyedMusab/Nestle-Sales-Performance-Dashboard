@@ -80,4 +80,4 @@ This Power BI project delivers an **end-to-end Business Intelligence solution**,
 | **Techniques Used** | ETL Process, Fuzzy Matching, DAX Measures, Churn Analysis, Dynamic Filtering |
 
 ---
-
+⭐ *If you find this project helpful, consider giving it a star on GitHub!*
